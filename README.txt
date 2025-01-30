@@ -9,5 +9,6 @@ HIGH NOTE: This tool for now requires low amount of CPU & RAM but in future at v
 HIGH NOTE: This tool only supports Windows, Linux, and Mac.
 
 Disclaimer: This tool is only made for educational purposes, we are not responsible for any illegal actions.
-No Malware/Backdoor
+No Malware/Backdoor.
+It will get frequently updated.
 COPYRIGHT  2025 SCS Organization.
