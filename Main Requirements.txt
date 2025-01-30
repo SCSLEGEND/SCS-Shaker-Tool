@@ -1,0 +1,4 @@
+Python
+Git
+Kali Linux
+Those 3 must be installed in order to run setup.bat

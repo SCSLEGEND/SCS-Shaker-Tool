@@ -1,0 +1,10 @@
+ettercap-graphical
+ettercap-text-only
+bettercap
+airgeddon
+nmap
+hping3
+wifite
+hydra
+metasploit-framework
+wireshark
